@@ -1,7 +1,7 @@
 // 1. Pilih tombol berdasarkan ID-nya
-const tombolsapa = document.getElementById('sapaButton');
+const tombolSapa = document.getElementById('sapaButton');
 // 2. Tambahkan 'event listener' untuk aksi 'click'
-tombolsapa.addEventListener('click',funtion() {
+tombolSapa.addEventListener('click', function() {
 // 3. Jalankan kode ini ketika toombol di-klik
 alert('Halo! Terima kasih sudah berkunjung!');
 });
